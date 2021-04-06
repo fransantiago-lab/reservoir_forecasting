@@ -11,4 +11,4 @@ reservoir time series forecasting[REDIAM]
 
 colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/fransantiago-lab/reservoir_forecasting/blob/main/prediccion_reserva_tranco_beas%5Bcedex%5D.ipynb)
