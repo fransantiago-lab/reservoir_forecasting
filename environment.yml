@@ -7,3 +7,4 @@ dependencies:
   - r-sf
   - r-tseries
   - r-forecast
+  - r-TSA
