@@ -2,4 +2,3 @@ libgdal-dev
 libproj-dev
 libgeos-dev
 libudunits2-dev
-libudunits2
